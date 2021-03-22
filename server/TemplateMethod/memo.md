@@ -8,3 +8,23 @@ AbstractClass
 
 ConcreteClass
 AbstractClassを継承したクラス。定義された抽象メソッドを実装し、具体的な処理内容を決定する。
+
+# クラス図
+```mermaid
+classDiagram
+class AbstractClass{
+    templateMethod()
+    PrimitiveOperation1()
+    PrimitiveOperation2()
+}
+
+class ConcreteMethod{
+    PrimitiveOperation1()
+    PrimitiveOperation2()
+}
+
+AbstractClass <|-- ConcreteMethod : extends
+```
+
+Doc
+https://mermaid-js.github.io/mermaid/#/classDiagram

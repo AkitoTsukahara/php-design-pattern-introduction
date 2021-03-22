@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/TemplateMethod/AbstractDisplay.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/TemplateMethod/ListDisplay.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/TemplateMethod/TableDisplay.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/TemplateMethod/memo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/TemplateMethod/template_method_client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/TemplateMethod/ClassUML.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/TemplateMethod/memo.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/TemplateMethod/memo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,9 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -25,7 +20,6 @@
   <component name="ProjectId" id="1q1kCHJmaHjJ0bpcl4laLiF7Gug" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -38,7 +32,10 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -51,22 +48,18 @@
       <updated>1616254354476</updated>
       <workItem from="1616254356203" duration="5971000" />
       <workItem from="1616330409276" duration="20000" />
-      <workItem from="1616419605197" duration="1250000" />
+      <workItem from="1616419605197" duration="2038000" />
+      <workItem from="1616421708874" duration="51000" />
+      <workItem from="1616422047106" duration="771000" />
+      <workItem from="1616422940268" duration="310000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="2427" y="373" key="NewPhpClassDialog" timestamp="1616420075331">
-      <screen x="1792" y="25" width="1920" height="1055" />
-    </state>
-    <state x="2427" y="373" key="NewPhpClassDialog/1792.25.1920.1055/3712.25.1920.1055/69.25.1723.1095@1792.25.1920.1055" timestamp="1616420075331" />
-    <state x="2427" y="373" key="NewPhpClassDialog/1792.25.1920.1055/3712.25.1920.1055/72.25.1720.1095@1792.25.1920.1055" timestamp="1616304496245" />
-    <state x="2573" y="480" key="NewPhpFileDialog" timestamp="1616420132982">
-      <screen x="1792" y="25" width="1920" height="1055" />
-    </state>
-    <state x="2573" y="480" key="NewPhpFileDialog/1792.25.1920.1055/3712.25.1920.1055/69.25.1723.1095@1792.25.1920.1055" timestamp="1616420132982" />
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
