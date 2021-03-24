@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/Singleton/SingletonSample.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Singleton/memo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Singleton/singleton_client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Adapter/memo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,7 +52,7 @@
       <workItem from="1616421708874" duration="51000" />
       <workItem from="1616422047106" duration="771000" />
       <workItem from="1616422940268" duration="530000" />
-      <workItem from="1616508912528" duration="1932000" />
+      <workItem from="1616508912528" duration="2586000" />
     </task>
     <servers />
   </component>
