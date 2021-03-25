@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/Adapter/memo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Adapter/DisplaySourceFile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Adapter/DisplaySourceFileImpl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Adapter/ShowFile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Adapter/ShowFile_bad.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Adapter/adapter_client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Adapter/adapter_sample_client.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +37,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
     <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -52,7 +58,8 @@
       <workItem from="1616421708874" duration="51000" />
       <workItem from="1616422047106" duration="771000" />
       <workItem from="1616422940268" duration="530000" />
-      <workItem from="1616508912528" duration="2586000" />
+      <workItem from="1616508912528" duration="2626000" />
+      <workItem from="1616672844842" duration="2816000" />
     </task>
     <servers />
   </component>
