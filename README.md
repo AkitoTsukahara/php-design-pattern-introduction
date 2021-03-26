@@ -11,4 +11,6 @@ make down
     - `http://localhost:8080/index.php`
 - Iterator
     - `http://localhost:8080/iterator/index.php`
-        
+  
+- mermaid Class Diagram
+  - https://mermaid-js.github.io/mermaid/#/classDiagram
