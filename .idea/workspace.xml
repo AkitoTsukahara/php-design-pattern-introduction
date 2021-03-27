@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/FactoryMethod/CSVFileReader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/FactoryMethod/Reader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/FactoryMethod/ReaderFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/FactoryMethod/XMLFileReader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Facade/memo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FactoryMethod/client.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/FactoryMethod/client.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/FactoryMethod/memo.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/FactoryMethod/memo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +57,7 @@
       <workItem from="1616422940268" duration="530000" />
       <workItem from="1616508912528" duration="2626000" />
       <workItem from="1616672844842" duration="4016000" />
-      <workItem from="1616762949851" duration="5613000" />
+      <workItem from="1616762949851" duration="8054000" />
     </task>
     <servers />
   </component>
