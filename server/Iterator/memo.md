@@ -36,3 +36,6 @@ ConcreteAggregate <--o ConcreteIterator
 Iterator .. Client
 Aggregate .. Client
 Iterator <-- ConcreteIterator
+
+```
+
