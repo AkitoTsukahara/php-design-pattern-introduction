@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/Facade/Item.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Facade/ItemDao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Facade/Order.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Facade/OrderDao.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Facade/OrderItem.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Facade/OrderManager.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Facade/facade_client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Iterator/memo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/Facade/memo.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/Facade/memo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +34,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
-    <property name="settings.editor.selected.configurable" value="Settings.Markdown" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -63,7 +56,10 @@
       <workItem from="1616422940268" duration="530000" />
       <workItem from="1616508912528" duration="2626000" />
       <workItem from="1616672844842" duration="4016000" />
-      <workItem from="1616762949851" duration="9670000" />
+      <workItem from="1616762949851" duration="9783000" />
+      <workItem from="1616822247177" duration="258000" />
+      <workItem from="1616822507986" duration="176000" />
+      <workItem from="1616903102980" duration="1083000" />
     </task>
     <servers />
   </component>
@@ -80,6 +76,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
