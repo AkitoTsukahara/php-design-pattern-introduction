@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/Iterator/Employee.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Iterator/Employees.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Iterator/SalesmanIterator.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Iterator/iterator_client.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/Iterator/memo.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/Iterator/memo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +58,9 @@
       <workItem from="1616762949851" duration="9783000" />
       <workItem from="1616822247177" duration="258000" />
       <workItem from="1616822507986" duration="176000" />
-      <workItem from="1616903102980" duration="2813000" />
+      <workItem from="1616903102980" duration="3353000" />
+      <workItem from="1616937858272" duration="7000" />
+      <workItem from="1616938104797" duration="115000" />
     </task>
     <servers />
   </component>
