@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/AbstractFactory/DaoFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/AbstractFactory/DaoFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/AbstractFactory/DbFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/AbstractFactory/DbFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/AbstractFactory/DbItemDao.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/AbstractFactory/DbItemDao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/AbstractFactory/DbOrderDao.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/AbstractFactory/DbOrderDao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/AbstractFactory/Item.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/AbstractFactory/Item.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/AbstractFactory/ItemDao.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/AbstractFactory/ItemDao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/AbstractFactory/MockFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/AbstractFactory/MockFactory.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/AbstractFactory/MockItemDao.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/AbstractFactory/MockItemDao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/AbstractFactory/MockOrderDao.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/AbstractFactory/MockOrderDao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/AbstractFactory/Order.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/AbstractFactory/Order.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/AbstractFactory/OrderDao.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/AbstractFactory/OrderDao.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/AbstractFactory/abstract_factory_client.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/AbstractFactory/abstract_factory_client.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server/TemplateMethod/memo.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/TemplateMethod/memo.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/AbstractFactory/memo.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/AbstractFactory/memo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +56,7 @@
       <workItem from="1616672844842" duration="4147000" />
       <workItem from="1617205628422" duration="4265000" />
       <workItem from="1617359918089" duration="17000" />
-      <workItem from="1617455915946" duration="2529000" />
+      <workItem from="1617455915946" duration="2639000" />
     </task>
     <servers />
   </component>
