@@ -1,8 +1,7 @@
 <?php
 declare(strict_types=1);
 
-
-class OrderDao
+interface OrderDao
 {
-
+    public function findById($order_id);
 }

@@ -23,7 +23,7 @@ class ConcreteMethod{
     PrimitiveOperation2()
 }
 
-AbstractClass <|-- ConcreteMethod : extends
+AbstractClass <|-- ConcreteMethod
 ```
 
 Doc

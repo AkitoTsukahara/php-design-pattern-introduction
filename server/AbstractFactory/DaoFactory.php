@@ -1,8 +1,9 @@
 <?php
 declare(strict_types=1);
 
-
-class DaoFactory
+interface DaoFactory
 {
+    public function createItemDao();
 
+    public function createOrderDao();
 }
