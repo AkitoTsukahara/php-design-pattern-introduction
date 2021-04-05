@@ -8,6 +8,7 @@ Facadeパターンはクラスやオブジェクト構造に注目したパタ�
 
 ```mermaid
 classDiagram
+
 class OrderManager {
     +add() void
 }
