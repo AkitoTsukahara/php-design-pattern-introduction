@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/AlphabetValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/MaxLengthValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/NotNullValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/NumberValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/ValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/chain_of_responsibility_client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Command/Command.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Command/CompressCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Command/CopyCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Command/File.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Command/Queue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Command/TouchCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Command/command_client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Command/memo.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +41,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="ClickHouse" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -75,11 +78,23 @@
       <workItem from="1617516182447" duration="2911000" />
       <workItem from="1617623172895" duration="1832000" />
       <workItem from="1617716949041" duration="2604000" />
+      <workItem from="1617885934477" duration="1405000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
