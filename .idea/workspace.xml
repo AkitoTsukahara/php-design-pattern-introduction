@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/AlphabetValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/MaxLengthValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/NotNullValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/NumberValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/ValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/chain_of_responsibility_client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Composite/Employee.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Composite/Group.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Composite/OrganizationEntry.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Composite/composite_client.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +78,18 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
