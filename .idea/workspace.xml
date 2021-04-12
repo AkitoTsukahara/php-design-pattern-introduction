@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/AlphabetValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/MaxLengthValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/NotNullValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/NumberValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/ValidationHandler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/ChainOfResponsibility/chain_of_responsibility_client.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,6 +67,7 @@
       <workItem from="1617516182447" duration="2911000" />
       <workItem from="1617623172895" duration="1832000" />
       <workItem from="1617716949041" duration="2761000" />
+      <workItem from="1618058625294" duration="493000" />
     </task>
     <servers />
   </component>
