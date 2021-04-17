@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/server/Part01/Memento/Data.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Memento/DataCaretaker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Memento/DataSnapshot.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Memento/memento_client.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Part01/Memento/memo.md" beforeDir="false" afterPath="$PROJECT_DIR$/server/Part01/Memento/memo.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +77,7 @@
       <workItem from="1618058625294" duration="493000" />
       <workItem from="1618236968779" duration="1906000" />
       <workItem from="1618549956194" duration="1564000" />
+      <workItem from="1618582850353" duration="1157000" />
     </task>
     <servers />
   </component>
