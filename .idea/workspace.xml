@@ -2,6 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/server/Part01/Prototype/DeepCopyItem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Prototype/ItemManager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Prototype/ItemPrototype.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Prototype/ShallowCopyItem.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Prototype/memo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Prototype/prototype_client.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +39,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PHP" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -70,12 +77,30 @@
       <workItem from="1617623172895" duration="1832000" />
       <workItem from="1617716949041" duration="2761000" />
       <workItem from="1618058625294" duration="493000" />
-      <workItem from="1618236968779" duration="2448000" />
+      <workItem from="1618236968779" duration="1906000" />
+      <workItem from="1618549956194" duration="1564000" />
+      <workItem from="1618582850353" duration="1201000" />
+      <workItem from="1618671604955" duration="1827000" />
+      <workItem from="1618735547181" duration="3086000" />
+      <workItem from="1618746788615" duration="12000" />
+      <workItem from="1618836681710" duration="1531000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
