@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/Part01/Interpreter/Command.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Interpreter/CommandCommand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Interpreter/CommandListCommand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Interpreter/Context.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Interpreter/JobCommand.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Interpreter/interpreter_client.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -76,7 +70,7 @@
       <workItem from="1617623172895" duration="1832000" />
       <workItem from="1617716949041" duration="2761000" />
       <workItem from="1618058625294" duration="493000" />
-      <workItem from="1618236968779" duration="1906000" />
+      <workItem from="1618236968779" duration="2448000" />
     </task>
     <servers />
   </component>
