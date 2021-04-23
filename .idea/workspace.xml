@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/Part01/Prototype/DeepCopyItem.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Prototype/ItemManager.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Prototype/ItemPrototype.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Prototype/ShallowCopyItem.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Prototype/memo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Prototype/prototype_client.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +77,8 @@
       <workItem from="1618671604955" duration="1827000" />
       <workItem from="1618735547181" duration="3086000" />
       <workItem from="1618746788615" duration="12000" />
-      <workItem from="1618836681710" duration="1531000" />
+      <workItem from="1618836681710" duration="1718000" />
+      <workItem from="1618923267894" duration="553000" />
     </task>
     <servers />
   </component>
