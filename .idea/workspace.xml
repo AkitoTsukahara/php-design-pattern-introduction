@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/Part01/Strategy/memo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Strategy/ItemDataContext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Strategy/ReadFixedLengthDataStrategy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Strategy/ReadItemDataStrategy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Strategy/ReadTabSeparatedDataStrategy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Strategy/fixed_length_data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Strategy/strategy_client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part01/Strategy/tab_separated_data.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +88,7 @@
       <workItem from="1618923267894" duration="553000" />
       <workItem from="1619156201135" duration="16000" />
       <workItem from="1619156245465" duration="14000" />
-      <workItem from="1619177177200" duration="1431000" />
+      <workItem from="1619177177200" duration="3933000" />
     </task>
     <servers />
   </component>
