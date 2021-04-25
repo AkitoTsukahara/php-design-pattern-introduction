@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/Part01/Visitor/CountVisitor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Visitor/DumpVisitor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Visitor/Employee.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Visitor/Group.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Visitor/OrganizationEntry.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Visitor/Visitor.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Visitor/memo.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part01/Visitor/visitor_client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/TemplateMethod/AbstractDisplay.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/TemplateMethod/ListDisplay.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/TemplateMethod/TableDisplay.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/TemplateMethod/memo.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/TemplateMethod/template_method_client.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -89,7 +86,8 @@
       <workItem from="1618923267894" duration="553000" />
       <workItem from="1619156201135" duration="16000" />
       <workItem from="1619156245465" duration="14000" />
-      <workItem from="1619177177200" duration="5510000" />
+      <workItem from="1619177177200" duration="5723000" />
+      <workItem from="1619361143241" duration="872000" />
     </task>
     <servers />
   </component>
