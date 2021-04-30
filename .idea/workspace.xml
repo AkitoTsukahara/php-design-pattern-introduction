@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/Part02/Adapter/DisplaySourceFile.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part02/Adapter/DisplaySourceFileImpl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part02/Adapter/ShowFile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/FactoryMethod/CSVFileReader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/FactoryMethod/Reader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/FactoryMethod/ReaderFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/FactoryMethod/XMLFileReader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/FactoryMethod/factory_client.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +89,8 @@
       <workItem from="1619177177200" duration="5723000" />
       <workItem from="1619361143241" duration="929000" />
       <workItem from="1619608602970" duration="1396000" />
-      <workItem from="1619705238347" duration="1221000" />
+      <workItem from="1619705238347" duration="1350000" />
+      <workItem from="1619782110969" duration="836000" />
     </task>
     <servers />
   </component>
