@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/Part02/Bridge/DataSource.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part02/Bridge/ExtendedListing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part02/Bridge/FileDataSource.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part02/Bridge/Listing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part02/Bridge/bridge_client.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part02/Bridge/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/Builder/News.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/Builder/NewsBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/Builder/NewsDirector.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/Builder/RssNewsBuilder.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/Builder/builder_client.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +92,7 @@
       <workItem from="1619705238347" duration="1350000" />
       <workItem from="1619782110969" duration="3546000" />
       <workItem from="1619966872664" duration="1901000" />
-      <workItem from="1620107447789" duration="510000" />
+      <workItem from="1620107447789" duration="1069000" />
     </task>
     <servers />
   </component>
