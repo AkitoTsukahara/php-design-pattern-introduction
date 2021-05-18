@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/server/Part02/Flyweight/Item.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part02/Flyweight/ItemFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server/Part02/Flyweight/flyweight_client.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +98,7 @@
       <workItem from="1620657131929" duration="960000" />
       <workItem from="1621090318815" duration="503000" />
       <workItem from="1621175915801" duration="274000" />
-      <workItem from="1621261187435" duration="191000" />
+      <workItem from="1621261187435" duration="819000" />
     </task>
     <servers />
   </component>
