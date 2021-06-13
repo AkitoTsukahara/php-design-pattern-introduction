@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="" />
+    <list default="true" id="8051fb86-c10f-43df-932c-5bfefa36390e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/server/Part02/Memento/DataCaretaker.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server/Part02/Memento/memento_client.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server/Part02/Memento/Data.php" beforeDir="false" afterPath="$PROJECT_DIR$/server/Part02/Memento/Data.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,6 +103,8 @@
       <workItem from="1621175915801" duration="274000" />
       <workItem from="1621261187435" duration="819000" />
       <workItem from="1622990551365" duration="132000" />
+      <workItem from="1623420212148" duration="486000" />
+      <workItem from="1623593803106" duration="262000" />
     </task>
     <servers />
   </component>
